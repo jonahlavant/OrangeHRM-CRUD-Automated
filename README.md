@@ -1,4 +1,4 @@
-# whiteSpace Automation Engineer Assessment
+# Automation Engineer Assessment
 
 **Task for Candidate:** Automate Recruitment Workflow with CRUD Operations  
 **Objective:** Automate the workflow for adding, editing, verifying, and deleting a job candidate for the position of "QA Automation Engineer (Mid-Level)" using the OrangeHRM Demo website.
